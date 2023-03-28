@@ -8,7 +8,6 @@
 
 - Developed by Sama Babaee 👻
 
--  Created - 2023-03-1
 
 - Technologies Used - Html , css , JavaScript  
 
