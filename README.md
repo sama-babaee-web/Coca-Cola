@@ -2,7 +2,8 @@
 
 **Visit the Suzuki Motor website **
 
-![suzuki](https://user-images.githubusercontent.com/107030945/222136817-f0661db1-fda0-4e41-a3f2-dd9a90c51e2e.png)
+![coca](https://user-images.githubusercontent.com/107030945/228376933-59fdbb36-8209-4263-b403-209f5d84ffa1.png)
+
 
 - [Demo Project](https://sama-babaee-web.github.io/Suzuki-Motor-website/)
 
